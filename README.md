@@ -1,0 +1,1 @@
+Othello bot with minimax algorithm, which utilizes recursion to look several moves ahead to find the best move (the one that will result in the best future state). It scores the board state based on how the occupancy of corner tiles, which are advantageous. It assumes that the opponent also chooses the best future move. 
